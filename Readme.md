@@ -1,5 +1,9 @@
-##DataBase Project
-###Chat-Messenger
+<h1 align="center">Chat Messenger</h1>
+<h2 align="center">
+  
+  ## Database Project
+
+
 ![Android Emulator - Nexus_5X_API_27_5554 22 01 2021 20_54_30](https://user-images.githubusercontent.com/56004530/105527680-155b9b00-5cf5-11eb-8acc-3209697bfe07.png)
 ![Android Emulator - Nexus_5X_API_27_5554 22 01 2021 20_54_41](https://user-images.githubusercontent.com/56004530/105527683-168cc800-5cf5-11eb-945a-2f619c3180b6.png)
 ![Android Emulator - Nexus_5X_API_27_5554 22 01 2021 20_54_49](https://user-images.githubusercontent.com/56004530/105527684-168cc800-5cf5-11eb-90c0-c8109b1e4fab.png)
