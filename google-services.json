@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050512581707",
+    "firebase_url": "https://messengerchat-80e77.firebaseio.com",
+    "project_id": "messengerchat-80e77",
+    "storage_bucket": "messengerchat-80e77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050512581707:android:9f899d705e3206e01b59ce",
+        "android_client_info": {
+          "package_name": "com.example.messengerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050512581707-2dbmetjclq8fj24023potdsgdkchml7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaf6M9HwCiw0zTykrHZjh9t1S8Ce5J5aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050512581707-2dbmetjclq8fj24023potdsgdkchml7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

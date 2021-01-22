@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <item
+        android:id="@+id/menu_new_message"
+        android:title="New Message"
+        android:icon="@drawable/ic_menu_newmessage"
+        />
+
+    <item android:id="@+id/menu_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_menu_settings"
+
+        />
+    <!--<item
+        android:id="@+id/swith_sss"
+        app:showAsAction="ifRoom"
+        android:title="Switch"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_menu_night"
+        android:actionLayout="@layout/switch_example" />-->
+
+    <item android:id="@+id/menu_analytics"
+        android:title="Analytics"
+        android:icon="@drawable/ic_baseline_menu_analytics"
+
+        />
+    <item android:id="@+id/menu_sign_out"
+        android:title="Sign Out"
+        android:icon="@drawable/ic_menu_sign_out"
+        />
+
+</menu>
